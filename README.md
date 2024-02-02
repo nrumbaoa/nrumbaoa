@@ -13,8 +13,7 @@ Greetings! Thank you for visiting my data portfolio. Here, you'll discover my pr
 
 
 ## Education
-- **Degree**: Bachelor of Science in Electronics Engineering
-- **University**: DeVry University
+- **Degree**: DeVry University, Bachelor of Science in Electronics Engineering
 
 ## Skills
 - **Programming Languages**: Python,  SQL
@@ -25,10 +24,13 @@ Greetings! Thank you for visiting my data portfolio. Here, you'll discover my pr
 - **Machine Learning**: Linear Regression, Decision Trees
 - **Version Control**: [GitHub](https://github.com/nrumbaoa)
 
-## Projects
-### [U.S. Sales Overview](https://public.tableau.com/app/profile/nykka.rumbaoa/viz/SalesDashboard_17064990427450/SalesDashboard)
-- **Description**: Analyzed customer data to identify distinct segments for targeted marketing.
-- **Tools/Languages Used**: Excel, Tableau
+# Projects
+##Tableau
+| Project Link           | Completion Date | Technology Used        | Project Description                                   |
+|------------------------|------------------|------------------------|--------------------------------------------------------|
+| [HR Analytic Dashboard]([#](https://public.tableau.com/app/profile/nykka.rumbaoa/viz/HRAnalyticsDashboard_17063745207730/HRAnalyticsDashboard)) | 01/2024           | Excel, Tableau          | Employee Attrition Rate by gender, age, and department.                         |
+| [U.S. Sales Dashboard]([#](https://public.tableau.com/app/profile/nykka.rumbaoa/viz/SalesDashboard_17064990427450/SalesDashboard)) | 01/2024           | Excel, Tableau          | Sales and Profit perfomance by location                         |
+| [King's County Housing Price]([#](https://public.tableau.com/app/profile/nykka.rumbaoa/viz/KingCountyHousingPrice_17062396629250/KingCountyHouseSales)) | 01/2024           | Excel, Tableau          | Average house sales including bedroom, bathroom, and price distribution                         |
 
 
 ## Work Experience
@@ -39,8 +41,6 @@ Greetings! Thank you for visiting my data portfolio. Here, you'll discover my pr
   - Engineered and executed automation scripts utilizing Python and LabVIEW, enhancing efficiency and accuracy of system processes.
   - Executed and documented comprehensive test cases for reliable hardware testing, focusing on camera prototypes and battery-operated devices, thereby ensuring product durability and optimal performance.
   - Created technical documentation, including detailed engineering processes and guides, to standardize operations and expedite issue resolution, resulting in improved operational efficiency.
-
-
 
 ## Certifications
 - [Google Advanced Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/FZXBT6FAQV4L) - Google- 2024
