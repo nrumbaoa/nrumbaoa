@@ -13,7 +13,7 @@ Greetings! Thank you for visiting my data portfolio. Here, you'll discover my pr
 
 
 ## Education
-- **Degree**: DeVry University, Bachelor of Science in Electronics Engineering
+- **Degree**: DeVry University, B.S. in Electronics Engineering
 
 ## Skills
 - **Programming Languages**: Python,  SQL
@@ -38,7 +38,8 @@ Greetings! Thank you for visiting my data portfolio. Here, you'll discover my pr
 | [Simple Linear Regression](https://github.com/nrumbaoa/python_projects/blob/main/NRumbaoa%20Simple%20Linear%20Regression.ipynb) | 01/2024           | Excel, Python          | Skills applied: Python programming, building linear regression model, exploratory data analysis                          |
 |   |            |           |                         |
 |   |            |           |                         |
-
+|   |            |           |                         |
+|   |            |           |                         |
 
 ## Work Experience
 ### Arlo Technologies
