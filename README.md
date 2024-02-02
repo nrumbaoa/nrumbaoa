@@ -40,9 +40,14 @@ I'm all about learning and making friends in the analytics community. So, thank 
 
 
 ## Work Experience
-### [Data Analyst - XYZ Tech Solutions](https://www.xyztech.com)
-- **Duration**: January 2023 - Present
-- **Description**: Conducting data analysis to extract valuable insights for business strategy. Implemented and maintained data visualizations for executive reporting.
+### Arlo Technologies
+- **Duration**: July 2018 - November 2022
+- **Description**: 
+- ***Extracted and cleansed raw data from battery life tests and PIR range testing, employing advanced parsing techniques. Transformed the data into insightful visual representations for analytical review.
+- ***Engineered and executed automation scripts utilizing Python and LabVIEW, enhancing efficiency and accuracy of system processes.
+- ***Executed and documented comprehensive test cases for reliable hardware testing, focusing on camera prototypes and battery-operated devices, thereby ensuring product durability and optimal performance.
+- ***Created technical documentation, including detailed engineering processes and guides, to standardize operations and expedite issue resolution, resulting in improved operational efficiency.
+
 
 ### [Junior Data Scientist - ABC Analytics](https://www.abcanalytics.com)
 - **Duration**: June 2021 - December 2022
@@ -53,10 +58,10 @@ I'm all about learning and making friends in the analytics community. So, thank 
 - [Microsoft Power BI Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/6GPUQM9SYUUN) - Microsoft- 2024
 
 ## Achievements
-- Recognized as "Employee Spot Award" at Intelsat for outstanding contributions training department.
+- "Employee Spot Award" at Intelsat for outstanding contributions training department.
 
 ## Contact
-- **Email**: nykkarumbaoa@email.com
+- **Email**: nykkarumbaoa@gmail.com
 - **LinkedIn**: [Nykka Rumbaoa](https://www.linkedin.com/in/nykka-rumbaoa/)
 - **GitHub**: [Nykka Rumbaoa on GitHub](https://github.com/nrumbaoa)
 
