@@ -43,10 +43,10 @@ I'm all about learning and making friends in the analytics community. So, thank 
 ### Arlo Technologies
 - **Duration**: July 2018 - November 2022
 - **Description**: 
-- ***Extracted and cleansed raw data from battery life tests and PIR range testing, employing advanced parsing techniques. Transformed the data into insightful visual representations for analytical review.
-- ***Engineered and executed automation scripts utilizing Python and LabVIEW, enhancing efficiency and accuracy of system processes.
-- ***Executed and documented comprehensive test cases for reliable hardware testing, focusing on camera prototypes and battery-operated devices, thereby ensuring product durability and optimal performance.
-- ***Created technical documentation, including detailed engineering processes and guides, to standardize operations and expedite issue resolution, resulting in improved operational efficiency.
+- **Extracted and cleansed raw data from battery life tests and PIR range testing, employing advanced parsing techniques. Transformed the data into insightful visual representations for analytical review.
+- **Engineered and executed automation scripts utilizing Python and LabVIEW, enhancing efficiency and accuracy of system processes.
+- **Executed and documented comprehensive test cases for reliable hardware testing, focusing on camera prototypes and battery-operated devices, thereby ensuring product durability and optimal performance.
+- **Created technical documentation, including detailed engineering processes and guides, to standardize operations and expedite issue resolution, resulting in improved operational efficiency.
 
 
 ### [Junior Data Scientist - ABC Analytics](https://www.abcanalytics.com)
