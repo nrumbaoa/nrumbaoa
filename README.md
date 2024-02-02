@@ -1,4 +1,6 @@
-Hey there! 👋 Welcome to My GitHub Space 🌟
+# Nykka Rumbaoa
+
+Hey there!
 
 I'm Nykka! Excited to have you here! I've spent the majority of my professional journey as a hardware engineer, but I'm making a shift into the world of data analytics. Yep, you guessed it – lots of time wrangling data in Excel!
 
@@ -8,7 +10,15 @@ My big dream? To dive into the AI field as a data scientist. The possibilities o
 
 I'm all about learning and making friends in the analytics community. So, thank you for stopping by! Feel free to poke around my repos, and if you're up for it, let's connect!
 
-# Nykka Rumbaoa
+
+## Table of Contents
+- [Education](#Education)
+- [Skills](#skills)
+- [Projects](#projects)
+- [Work Experience](#work-experience)
+- [Certifications](#certifications)
+- [Achievements](#achievements)
+
 
 ## Education
 - **Degree**: Bachelor of Science in Electronics Engineering
@@ -44,13 +54,6 @@ I'm all about learning and making friends in the analytics community. So, thank 
 
 ## Achievements
 - Recognized as "Employee Spot Award" at Intelsat for outstanding contributions training department.
-
-## Table of Contents
-- [Skills](#skills)
-- [Projects](#projects)
-- [Work Experience](#work-experience)
-- [Certifications](#certifications)
-- [Achievements](#achievements)
 
 ## Contact
 - **Email**: nykkarumbaoa@email.com
