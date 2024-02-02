@@ -32,6 +32,13 @@ Greetings! Thank you for visiting my data portfolio. Here, you'll discover my pr
 | [U.S. Sales Dashboard](https://public.tableau.com/app/profile/nykka.rumbaoa/viz/SalesDashboard_17064990427450/SalesDashboard) | 01/2024           | Excel, Tableau          | Sales and Profit perfomance by location                         |
 | [King's County Housing](https://public.tableau.com/app/profile/nykka.rumbaoa/viz/KingCountyHousingPrice_17062396629250/KingCountyHouseSales) | 01/2024           | Excel, Tableau          | Average house sales and price distribution                         |
 
+## Python
+| Project Link           | Completion Date | Technology Used        | Project Description                                   |
+|------------------------|------------------|------------------------|--------------------------------------------------------|
+| [Simple Linear Regression](https://github.com/nrumbaoa/python_projects/blob/main/NRumbaoa%20Simple%20Linear%20Regression.ipynb) | 01/2024           | Excel, Python          | Skills applied: Python programming, building linear regression model, exploratory data analysis                          |
+|   |            |           |                         |
+|   |            |           |                         |
+
 
 ## Work Experience
 ### Arlo Technologies
