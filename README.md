@@ -30,7 +30,7 @@ Greetings! Thank you for visiting my data portfolio. Here, you'll discover my pr
 |------------------------|------------------|------------------------|--------------------------------------------------------|
 | [HR Analytic Dashboard](https://public.tableau.com/app/profile/nykka.rumbaoa/viz/HRAnalyticsDashboard_17063745207730/HRAnalyticsDashboard) | 01/2024           | Excel, Tableau          | Employee Attrition Rate by gender, age, and department.                         |
 | [U.S. Sales Dashboard](https://public.tableau.com/app/profile/nykka.rumbaoa/viz/SalesDashboard_17064990427450/SalesDashboard) | 01/2024           | Excel, Tableau          | Sales and Profit perfomance by location                         |
-| [King's County Housing Price](https://public.tableau.com/app/profile/nykka.rumbaoa/viz/KingCountyHousingPrice_17062396629250/KingCountyHouseSales) | 01/2024           | Excel, Tableau          | Average house sales including bedroom, bathroom, and price distribution                         |
+| [King's County Housing](https://public.tableau.com/app/profile/nykka.rumbaoa/viz/KingCountyHousingPrice_17062396629250/KingCountyHouseSales) | 01/2024           | Excel, Tableau          | Average house sales and price distribution                         |
 
 
 ## Work Experience
