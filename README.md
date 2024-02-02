@@ -31,7 +31,7 @@ I'm all about learning and making friends in the analytics community. So, thank 
 - **Data Visualization**: Tableau, Power BI, Excel
 - **Statistical Analysis**: Regression Analysis, Hypothesis Testing
 - **Machine Learning**: Linear Regression, Decision Trees
-- **Version Control**: Git, [GitHub](https://github.com/nrumbaoa)
+- **Version Control**: [GitHub](https://github.com/nrumbaoa)
 
 ## Projects
 ### [U.S. Sales Overview](https://public.tableau.com/app/profile/nykka.rumbaoa/viz/SalesDashboard_17064990427450/SalesDashboard)
@@ -49,9 +49,6 @@ I'm all about learning and making friends in the analytics community. So, thank 
   - Created technical documentation, including detailed engineering processes and guides, to standardize operations and expedite issue resolution, resulting in improved operational efficiency.
 
 
-### [Junior Data Scientist - ABC Analytics](https://www.abcanalytics.com)
-- **Duration**: June 2021 - December 2022
-- **Description**: Assisted in developing predictive models and conducting exploratory data analysis. Collaborated with cross-functional teams to deliver data-driven solutions.
 
 ## Certifications
 - [Google Advanced Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/FZXBT6FAQV4L) - Google- 2024
