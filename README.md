@@ -34,10 +34,10 @@ I'm all about learning and making friends in the analytics community. So, thank 
 - **Version Control**: Git, [GitHub](https://github.com/nrumbaoa)
 
 ## Projects
-### [U.S. Sales Overview]
+### [U.S. Sales Overview](https://public.tableau.com/app/profile/nykka.rumbaoa/viz/SalesDashboard_17064990427450/SalesDashboard)
 - **Description**: Analyzed customer data to identify distinct segments for targeted marketing.
 - **Tools/Languages Used**: Excel, Tableau
-- **Link to Repository**: [Tableau](https://public.tableau.com/app/profile/nykka.rumbaoa/viz/SalesDashboard_17064990427450/SalesDashboard)
+
 
 ## Work Experience
 ### [Data Analyst - XYZ Tech Solutions](https://www.xyztech.com)
