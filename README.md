@@ -1,6 +1,6 @@
 # Nykka's Portfolio
 
-Hey there! Welcome to my data portfolio. You'll find my work history and a list of collection of projects I've worked on. Feel free to browse around and let's connect!
+Greetings! Thank you for visiting my data portfolio. Here, you'll discover my professional journey, including a comprehensive overview of my work history and a curated selection of impactful projects that I've worked on. Feel free to explore, and I look forward to the opportunity to connect with you!
 
 
 ## Table of Contents
