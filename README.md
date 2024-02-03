@@ -3,7 +3,7 @@
 Greetings! Thank you for visiting my data portfolio. Here, you'll discover my professional journey, including a comprehensive overview of my work history and a curated selection of impactful projects that I've worked on. Feel free to explore, and I look forward to the opportunity to connect with you!
 
 
-## Table of Contents
+## 📚Contents:
 - [Education](#Education)
 - [Skills](#skills)
 - [Projects](#projects)
@@ -13,7 +13,7 @@ Greetings! Thank you for visiting my data portfolio. Here, you'll discover my pr
 
 
 ## Education
-- **Degree**: DeVry University, B.S. in Electronics Engineering
+- **Degree**: B.S. in Electronics Engineering, DeVry University
 
 ## Skills
 - **Programming Languages**: Python,  SQL
