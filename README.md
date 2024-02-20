@@ -57,8 +57,3 @@ Greetings! Thank you for visiting my data portfolio. Here, you'll discover my pr
 ## Achievements
 - "Employee Spot Award" at Intelsat for outstanding contributions training department.
 
-## Contact
-- **Email**: nykkarumbaoa@gmail.com
-- **LinkedIn**: [Nykka Rumbaoa](https://www.linkedin.com/in/nykka-rumbaoa/)
-- **GitHub**: [Nykka Rumbaoa on GitHub](https://github.com/nrumbaoa)
-
